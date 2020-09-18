@@ -1,10 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "url": "postgres://xkkcqbkh:i6zTQ2a8mhQSFmjqOhrZP-NNCIY_xxzv@balarama.db.elephantsql.com:5432/xkkcqbkh",
+    "dialect": "postgres",
+    "operatorsAliases": "0"
   },
   "test": {
     "username": "root",
